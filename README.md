@@ -18,8 +18,8 @@ Visualization of data from simple detectors.
 
 
 ### Setup
-Wire the two photoresistors to the Arduino
-Setup MATLAB to take input from Arduino
-Upload the driver code
+1. Wire the two photoresistors to the Arduino
+2. Setup MATLAB to take input from Arduino
+3. Upload the driver code
 
 Contribution: Circuit setup and debugging
