@@ -1,4 +1,4 @@
-# PSI-DSP
+# Photo Sensor Input - Discrete Signal Processing
 A discrete time filtering of photo-sensed input to analyze relative motion.
 
 
